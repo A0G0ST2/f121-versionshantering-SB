@@ -1,0 +1,24 @@
+body {
+    padding: 50px;
+}
+
+#total {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    border: 3px solid black;
+    border-radius: 20%;
+}
+
+
+img {
+    width: 100px;
+}
+
+p {
+    padding-right: 400px;
+    padding-left: 400px;
+
+}
