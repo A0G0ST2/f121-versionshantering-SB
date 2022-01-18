@@ -110,7 +110,6 @@ button:hover {
 .half-right .name {
     font-size: 1.7rem;
     background: linear-gradient(#f83487, #fe8361);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 .half-right h3 {
