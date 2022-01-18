@@ -158,7 +158,21 @@ button:hover {
 }
 
 
-a {
+.omoss {
     text-decoration: none;
     color: black;
+    text-align: center;
+    
+    
+
+   
+}
+  .omoss:hover {
+      background-color: orange;
+      
+  }
+
+
+.membersofspidey {
+    padding: 200px;
 }
